@@ -8,3 +8,6 @@ h3 {
   text-transform: uppercase;
   font-weight: normal;
 }
+.tab-content-loader {
+  font-size: 70px;
+}
